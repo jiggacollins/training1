@@ -1,2 +1,2 @@
-packacge pillar
+package pillar
 flex pop 
